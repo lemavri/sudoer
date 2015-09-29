@@ -1,5 +1,5 @@
 {
-  "name": "sudoer",
+  "name": "sudoer-cp",
   "version": "0.1.0",
   "description": "Wrapper around sudo with an exec() interface.",
   "main": "./lib/index.js",
